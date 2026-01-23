@@ -3,7 +3,7 @@ Source codes of the our paper titled "Syn-T5: Syntax-aware fine-tuning for aspec
 
 <img src="https://github.com/ZouWang-spider/Syn-T5/blob/main/Syn-LLM/SynT5.png" alt="Dual-GNN Model" width="600"/>
 
-# Syn-T5 Framework
+# Syn-T5 Framework 
 
 The syntactic dependency parsing tool SpaCy is available: https://spacy.io/
 
@@ -18,7 +18,7 @@ The ASTE-Data-v2 Datasets obtained at: https://github.com/xuuuluuu/Position-Awar
 
 The DMASTE Datasets obtained at: https://github.com/NJUNLP/DMASTE
 
-#Based Farmaker
+# Foundation Framework Available
 The T5 Collection Framework obtained at: https://huggingface.co/google-t5
 
 The Qwen-3 Collection Framework obtained at: https://huggingface.co/Qwen/collections
